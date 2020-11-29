@@ -91,7 +91,6 @@ function writeYourGenres () {
         (personalMovieDB.genres).push(genre);
         // либо personalMovieDB.genres[i - 1] = genre;
     }
-
 }
 writeYourGenres();
-//проверка гит
+//проверка гит (вторая)

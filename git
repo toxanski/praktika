@@ -1,0 +1,12 @@
+[1mdiff --git a/js/script.js b/js/script.js[m
+[1mindex 772e36b..7fe0f64 100644[m
+[1m--- a/js/script.js[m
+[1m+++ b/js/script.js[m
+[36m@@ -94,4 +94,4 @@[m [mfunction writeYourGenres () {[m
+ [m
+ }[m
+ writeYourGenres();[m
+[31m-//проверка гит[m
+\ No newline at end of file[m
+[32m+[m[32m//проверка гит (вторая)[m
+\ No newline at end of file[m
