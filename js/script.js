@@ -94,3 +94,4 @@ function writeYourGenres () {
 
 }
 writeYourGenres();
+//проверка гит
